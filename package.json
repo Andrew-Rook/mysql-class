@@ -1,0 +1,28 @@
+{
+  "name": "mysql-class",
+  "version": "0.0.1",
+  "description": "Simple MySql class for nodejs",
+  "main": "mysql-class.js",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew-Rook/mysql-class.git"
+  },
+  "keywords": [
+    "MySql",
+    "MySql",
+    "Nodejs"
+  ],
+  "author": "AndrewRook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrew-Rook/mysql-class/issues"
+  },
+  "homepage": "https://github.com/Andrew-Rook/mysql-class#readme"
+}
